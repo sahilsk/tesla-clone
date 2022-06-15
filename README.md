@@ -1,6 +1,8 @@
 # About
 Tesla website clone using react.
 
+![Tesla Clone](public/images/tesla-clone.jpg)
+
 
 # Instructions
 ----
